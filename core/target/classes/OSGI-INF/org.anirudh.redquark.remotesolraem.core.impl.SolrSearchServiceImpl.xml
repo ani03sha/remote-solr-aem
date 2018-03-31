@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><components xmlns:scr="http://www.osgi.org/xmlns/scr/v1.0.0">
+    <scr:component name="org.anirudh.redquark.remotesolraem.core.impl.SolrSearchServiceImpl">
+        <implementation class="org.anirudh.redquark.remotesolraem.core.impl.SolrSearchServiceImpl"/>
+        <service servicefactory="false">
+            <provide interface="org.anirudh.redquark.remotesolraem.core.SolrSearchService"/>
+        </service>
+        <property name="service.vendor" value="Adobe"/>
+        <property name="service.pid" value="org.anirudh.redquark.remotesolraem.core.impl.SolrSearchServiceImpl"/>
+        <reference name="queryBuilder" interface="com.day.cq.search.QueryBuilder" cardinality="1..1" policy="static" bind="bindQueryBuilder" unbind="unbindQueryBuilder"/>
+        <reference name="repository" interface="org.apache.sling.jcr.api.SlingRepository" cardinality="1..1" policy="static" bind="bindRepository" unbind="unbindRepository"/>
+        <reference name="solrConfigurationService" interface="org.anirudh.redquark.remotesolraem.core.SolrServerConfiguration" cardinality="1..1" policy="static" bind="bindSolrConfigurationService" unbind="unbindSolrConfigurationService"/>
+        <reference name="resolverFactory" interface="org.apache.sling.api.resource.ResourceResolverFactory" cardinality="1..1" policy="static" bind="bindResolverFactory" unbind="unbindResolverFactory"/>
+    </scr:component>
+</components>

@@ -1,0 +1,13 @@
+C:\Users\anirshar\Documents\Development\aem-development\aem-workspace\remote-solr-aem\core\src\main\java\org\anirudh\redquark\remotesolraem\core\servlets\IndexContentToSolr.java
+C:\Users\anirshar\Documents\Development\aem-development\aem-workspace\remote-solr-aem\core\src\main\java\org\anirudh\redquark\remotesolraem\core\SolrSearchService.java
+C:\Users\anirshar\Documents\Development\aem-development\aem-workspace\remote-solr-aem\core\src\main\java\org\anirudh\redquark\remotesolraem\core\servlets\SimpleServlet.java
+C:\Users\anirshar\Documents\Development\aem-development\aem-workspace\remote-solr-aem\core\src\main\java\org\anirudh\redquark\remotesolraem\core\servlets\DeleteIndexesFromSolr.java
+C:\Users\anirshar\Documents\Development\aem-development\aem-workspace\remote-solr-aem\core\src\main\java\org\anirudh\redquark\remotesolraem\core\impl\SolrSearchServiceImpl.java
+C:\Users\anirshar\Documents\Development\aem-development\aem-workspace\remote-solr-aem\core\src\main\java\org\anirudh\redquark\remotesolraem\utils\SolrUtils.java
+C:\Users\anirshar\Documents\Development\aem-development\aem-workspace\remote-solr-aem\core\src\main\java\org\anirudh\redquark\remotesolraem\core\filters\LoggingFilter.java
+C:\Users\anirshar\Documents\Development\aem-development\aem-workspace\remote-solr-aem\core\src\main\java\org\anirudh\redquark\remotesolraem\core\listeners\SimpleResourceListener.java
+C:\Users\anirshar\Documents\Development\aem-development\aem-workspace\remote-solr-aem\core\src\main\java\org\anirudh\redquark\remotesolraem\core\package-info.java
+C:\Users\anirshar\Documents\Development\aem-development\aem-workspace\remote-solr-aem\core\src\main\java\org\anirudh\redquark\remotesolraem\core\impl\SolrServerConfigurationImpl.java
+C:\Users\anirshar\Documents\Development\aem-development\aem-workspace\remote-solr-aem\core\src\main\java\org\anirudh\redquark\remotesolraem\core\schedulers\SimpleScheduledTask.java
+C:\Users\anirshar\Documents\Development\aem-development\aem-workspace\remote-solr-aem\core\src\main\java\org\anirudh\redquark\remotesolraem\core\models\HelloWorldModel.java
+C:\Users\anirshar\Documents\Development\aem-development\aem-workspace\remote-solr-aem\core\src\main\java\org\anirudh\redquark\remotesolraem\core\SolrServerConfiguration.java

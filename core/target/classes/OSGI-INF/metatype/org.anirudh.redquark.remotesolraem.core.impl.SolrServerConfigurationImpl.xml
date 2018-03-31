@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><metatype:MetaData xmlns:metatype="http://www.osgi.org/xmlns/metatype/v1.0.0" localization="OSGI-INF/metatype/org.anirudh.redquark.remotesolraem.core.impl.SolrServerConfigurationImpl">
+    <OCD id="org.anirudh.redquark.remotesolraem.core.impl.SolrServerConfigurationImpl" name="%org.anirudh.redquark.remotesolraem.core.impl.SolrServerConfigurationImpl.name" description="%org.anirudh.redquark.remotesolraem.core.impl.SolrServerConfigurationImpl.description">
+        <AD id="solr.protocol" type="String" default="http" name="%org.anirudh.redquark.remotesolraem.core.impl.SolrServerConfigurationImpl.solr.protocol.name" description="%org.anirudh.redquark.remotesolraem.core.impl.SolrServerConfigurationImpl.solr.protocol.description"/>
+        <AD id="solr.server.name" type="String" default="localhost" name="%org.anirudh.redquark.remotesolraem.core.impl.SolrServerConfigurationImpl.solr.server.name.name" description="%org.anirudh.redquark.remotesolraem.core.impl.SolrServerConfigurationImpl.solr.server.name.description"/>
+        <AD id="solr.server.port" type="String" default="8983" name="%org.anirudh.redquark.remotesolraem.core.impl.SolrServerConfigurationImpl.solr.server.port.name" description="%org.anirudh.redquark.remotesolraem.core.impl.SolrServerConfigurationImpl.solr.server.port.description"/>
+        <AD id="solr.core.name" type="String" default="collection1" name="%org.anirudh.redquark.remotesolraem.core.impl.SolrServerConfigurationImpl.solr.core.name.name" description="%org.anirudh.redquark.remotesolraem.core.impl.SolrServerConfigurationImpl.solr.core.name.description"/>
+        <AD id="solr.core.pagepath" type="String" default="/content/geometrixx" name="%org.anirudh.redquark.remotesolraem.core.impl.SolrServerConfigurationImpl.solr.core.pagepath.name" description="%org.anirudh.redquark.remotesolraem.core.impl.SolrServerConfigurationImpl.solr.core.pagepath.description"/>
+    </OCD>
+    <Designate pid="org.anirudh.redquark.remotesolraem.core.impl.SolrServerConfigurationImpl">
+        <Object ocdref="org.anirudh.redquark.remotesolraem.core.impl.SolrServerConfigurationImpl"/>
+    </Designate>
+</metatype:MetaData>

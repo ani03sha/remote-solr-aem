@@ -1,0 +1,13 @@
+org\anirudh\redquark\remotesolraem\core\servlets\DeleteIndexesFromSolr.class
+org\anirudh\redquark\remotesolraem\core\impl\SolrServerConfigurationImpl.class
+org\anirudh\redquark\remotesolraem\core\filters\LoggingFilter.class
+org\anirudh\redquark\remotesolraem\core\schedulers\SimpleScheduledTask.class
+org\anirudh\redquark\remotesolraem\core\listeners\SimpleResourceListener.class
+org\anirudh\redquark\remotesolraem\core\package-info.class
+org\anirudh\redquark\remotesolraem\core\servlets\IndexContentToSolr.class
+org\anirudh\redquark\remotesolraem\utils\SolrUtils.class
+org\anirudh\redquark\remotesolraem\core\SolrServerConfiguration.class
+org\anirudh\redquark\remotesolraem\core\SolrSearchService.class
+org\anirudh\redquark\remotesolraem\core\servlets\SimpleServlet.class
+org\anirudh\redquark\remotesolraem\core\models\HelloWorldModel.class
+org\anirudh\redquark\remotesolraem\core\impl\SolrSearchServiceImpl.class
